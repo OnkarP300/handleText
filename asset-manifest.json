@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/handleText-React/static/css/main.073c9b0a.css",
+    "main.js": "/handleText-React/static/js/main.6d309084.js",
+    "static/js/787.933e5d88.chunk.js": "/handleText-React/static/js/787.933e5d88.chunk.js",
+    "index.html": "/handleText-React/index.html",
+    "main.073c9b0a.css.map": "/handleText-React/static/css/main.073c9b0a.css.map",
+    "main.6d309084.js.map": "/handleText-React/static/js/main.6d309084.js.map",
+    "787.933e5d88.chunk.js.map": "/handleText-React/static/js/787.933e5d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6d309084.js"
+  ]
+}
